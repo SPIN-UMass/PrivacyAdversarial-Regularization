@@ -1,7 +1,7 @@
 # PrivacyAdversarial-Regularization
 ## Requirements
 ```
-tensorflow
+pytorch
 numpy
 pickle
 ```
